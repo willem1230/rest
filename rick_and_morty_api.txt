@@ -1,0 +1,6 @@
+1)
+https://rickandmortyapi.com/api/episode
+
+2)
+https://rickandmortyapi.com/api/character/?name=rick
+https://rickandmortyapi.com/api/episode?episode=s01

@@ -1,0 +1,9 @@
+1)
+https://api.github.com/users/willem1230/repos
+
+2)
+https://api.github.com/repos/willem1230/willem1230.github.io/commits
+https://api.github.com/repos/OWNER/REPO/commits
+
+3)
+https://api.github.com/search/repositories?q=language:python

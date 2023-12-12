@@ -1,0 +1,15 @@
+1)
+
+https://restcountries.com/v3.1/name/Switzerland
+
+ja population :8654622
+
+2)
+
+https://restcountries.com/v3.1/currency/eur
+
+3)
+
+https://restcountries.com/v3.1/name/{name}
+
+
